@@ -1,5 +1,5 @@
 /* calculate career batting averages */
-data casuser.newball;
+data WORK.newball;
 	set SASHELP.BASEBALL;
 	CrAvg=CrHits/CrAtBat;
 	CrAvg=ROUND(CrAvg,0.001);
