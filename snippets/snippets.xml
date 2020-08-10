@@ -1,0 +1,31 @@
+<Snippets>
+	<Snippet type="sample">
+		<Name label="Test a variety of graphs"/>
+		<Template uri="./GraphTest.sas"/>
+	</Snippet>
+	<Snippet type="sample">
+		<Name label="Create a Histogram plot"/>
+		<Template uri="./Histogram Plot.csm"/>
+	</Snippet>
+	<Snippet type="sample">
+		<Name label="Calculate Career Batting Average"/>
+		<Template uri="./careerBattingAvg.sas"/>
+	</Snippet>
+	<Snippet type="sample">
+		<Name label="Create a Cowboy Hat plot"/>
+		<Template uri="./cowboyhat.sas"/>
+	</Snippet>
+	<Snippet type="sample">
+		<Name label="Create table with specified row/col count"/>
+		<Template uri="./createTableNColsNRows.sas"/>
+	</Snippet>
+	<Snippet type="sample">
+		<Name label="Create a Periodic Table chart"/>
+		<Template uri="./periodic_table.sas"/>
+	</Snippet	
+	<Snippet type="sample">
+		<Name label="Create a stock chart"/>
+		<Template uri="./stockchart.sas"/>
+		<Documentation uri="http://support.sas.com/kb/35/169.html" label="Use SGPLOT to create a stock chart"/>
+	</Snippet>
+</Snippets>
