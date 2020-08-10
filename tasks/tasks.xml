@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tasks>
+	<Task>
+		<Name label="Box Plot"/>
+		<Template uri="./Box Plot.ctm"/>
+		<Keywords>
+            <Keyword word="CHART1"/>
+        </Keywords>
+	</Task>
+	<Task>
+		<Name label="Summary Statistics"/>
+		<Template uri="./Summary Statistics.ctm"/>
+		<Keywords>
+            <Keyword word="CHART2"/>
+        </Keywords>
+	</Task>
+	<Task>
+		<Name label="One-Way ANOVA"/>
+		<Template uri="./One-Way ANOVA.ctm"/>
+		<Keywords>
+            <Keyword word="CHART3"/>
+        </Keywords>
+	</Task>
+</Tasks>
